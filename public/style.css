@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+body{
+    font-family:'Open Sans', sans-serif;
+    background-image: url('/assets/pineapples-wallpaper-1600x900.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.center-div{
+    padding-top: 10%;
+}
+
+.btn.btn-success{
+    padding: .4em 2em
+}
+
+form{
+    padding: 0 2em;
+}
